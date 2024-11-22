@@ -20,14 +20,14 @@ const About = () => {
               https://github.com/idurar/idurar-erp-crm
             </a>
           </p> */}
-          <Button
+          {/* <Button
             type="primary"
             onClick={() => {
               window.open(`https://www.idurarapp.com/contact-us/`);
             }}
           >
             {translate('Contact us')}
-          </Button>
+          </Button> */}
         </>
       }
     />
