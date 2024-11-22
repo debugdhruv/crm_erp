@@ -11,7 +11,7 @@ const About = () => {
       subTitle={translate('Do you need help on customize of this app')}
       extra={
         <>
-          <p>
+          {/* <p>
             Website : <a href="https://www.idurarapp.com">www.idurarapp.com</a>{' '}
           </p>
           <p>
@@ -19,7 +19,7 @@ const About = () => {
             <a href="https://github.com/idurar/idurar-erp-crm">
               https://github.com/idurar/idurar-erp-crm
             </a>
-          </p>
+          </p> */}
           <Button
             type="primary"
             onClick={() => {
